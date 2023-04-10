@@ -7,6 +7,8 @@ require_once(str_replace('\\', '/', dirname(__FILE__, 2)) . '/controllers/profis
 $controller = new ProfissionalController();
 $profissional = $controller->buscarTodos();
 
+// teste
+
 ?>
 <div class="container">
     <?php require_once('nav.php'); ?>
