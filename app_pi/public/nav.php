@@ -10,10 +10,14 @@
                     <a class="nav-link active" aria-current="page" href="home.php">Clientes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="./home_produto.php">Produtos</a>
+                    <a class="nav-link active" aria-current="page" href="./profissionais.php">Profissionais</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link active" aria-current="page" href="./servicos.php">Serviços</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link active" href="./pagamentos.php">Pagamentos</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
